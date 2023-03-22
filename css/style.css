@@ -8,3 +8,11 @@
     width: 16rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
 }
+.card img{
+    height: 80%;
+    object-fit: cover;
+}
+footer{
+    height: 55px;
+    background-color: #F8F9FA;
+}
