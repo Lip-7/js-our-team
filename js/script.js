@@ -71,7 +71,7 @@ function cardGen() { /* WANTED ASK SORRY TO MY FRIENDS AND SAMUEL, TY FOR YOUR I
         {
             name: 'Nello',
             surname: 'Rossi',
-            role: 'The man in the code',
+            role: 'Napolitan Spy',
             image: 'nell-ross.png'
         },
         {
