@@ -53,7 +53,7 @@ function cardGen() { /* WANTED ASK SORRY TO MY FRIENDS AND SAMUEL, TY FOR YOUR I
         {
             name: 'Giuseppe',
             surname: 'Indomenico',
-            role: 'Blasphemer',
+            role: "Charge of Float",
             image: 'giuse-indom.png'
         },
         {
@@ -61,6 +61,18 @@ function cardGen() { /* WANTED ASK SORRY TO MY FRIENDS AND SAMUEL, TY FOR YOUR I
             surname: 'Lumia',
             role: 'Official Speaker',
             image: 'giorg-lum.png'
+        },
+        {
+            name: 'Gaetano',
+            surname: 'Spampinato',
+            role: 'Blasphemer',
+            image: 'gaetano-scamp.png'
+        },
+        {
+            name: 'Nello',
+            surname: 'Rossi',
+            role: 'The man in the code',
+            image: 'nell-ross.png'
         },
         {
             name: 'Filippo',
