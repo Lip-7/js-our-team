@@ -75,6 +75,24 @@ function cardGen() { /* WANTED ASK SORRY TO MY FRIENDS AND SAMUEL, TY FOR YOUR I
             image: 'nell-ross.png'
         },
         {
+            name: 'Chiara',
+            surname: 'Sucato',
+            role: 'Main Chef',
+            image: 'chiara.png'
+        },
+        {
+            name: 'Alessandro',
+            surname: 'Pagliuca',
+            role: 'The man who volunteers',
+            image: 'aless-pagl.png'
+        },
+        {
+            name: 'Clelia',
+            surname: 'Fradella',
+            role: 'Official Navigator',
+            image: 'clelia.png'
+        },
+        {
             name: 'Filippo',
             surname: 'Verrone',
             role: 'Clochard',
@@ -92,7 +110,7 @@ function cardGen() { /* WANTED ASK SORRY TO MY FRIENDS AND SAMUEL, TY FOR YOUR I
             <img src="./img/${person.image}" class="card-img-top" alt="${person.name+ ' ' + person.surname}">
             <div class="card-body">
               <h5 class="memberName" class="card-title fw-semibold">${person.name+ ' ' + person.surname}</h5>
-              <p class="card-text">Role: <span class="role">${person.role}</span></p>
+              <p class="card-text">${person.role}</p>
             </div>
         </div>
         `
